@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GABRIEL_SANCHEZ_S6</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Lista</string>
+    <string name="managment_fragment_label">Ticket</string>
+    <!-- Strings used for ticket management -->
+    <string name="validate_data">Debe ingresar los campos</string>
+    <string name="created_ticket">Ticket creado exitosamente</string>
+    <string name="updated_ticket">Ticket actualizado exitosamente</string>
+    <string name="deleted_ticket">Ticket eliminado exitosamente</string>
+</resources>
